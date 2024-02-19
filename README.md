@@ -1,1 +1,1 @@
-# testing
+Django Developer Beginner
